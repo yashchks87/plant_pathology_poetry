@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "plant pathology 2021"
+version = "1.0.0"
+description = ""
+authors = ["Yash Choksi"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.3"
+numpy = "^1.24.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
