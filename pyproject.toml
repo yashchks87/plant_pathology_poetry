@@ -13,6 +13,10 @@ pandas = "^1.5.3"
 tensorboard = "2.9.0"
 ipykernel = "^6.21.3"
 ipython = "^8.11.0"
+matplotlib = "^3.7.1"
+seaborn = "^0.12.2"
+pillow = "^9.4.0"
+opencv-python = "^4.7.0.72"
 
 
 [build-system]
